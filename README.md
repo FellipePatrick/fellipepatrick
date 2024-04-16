@@ -4,7 +4,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D10202&height=120&section=header&text=FellipePatrick&fontSize=30&fontColor=fff&animation&twnikling&fontAlingY=35"/>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OI,+MEU+NOME+É+Fellipe;Sou+do+RN(Natal)+;Bem+Vindos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Fellipe;I'm+From+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
