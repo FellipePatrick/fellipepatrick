@@ -13,8 +13,6 @@
 </div>
 
 
-![Home](https://github.com/fellipepatrick/fellipepatrick/assets/116919319/89f45fe5-ded0-47ac-973c-62857c6886c0)
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
